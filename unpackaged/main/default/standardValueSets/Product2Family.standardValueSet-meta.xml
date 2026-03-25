@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>None</fullName>
+        <default>false</default>
+        <label>None</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Tuition</fullName>
+        <default>false</default>
+        <label>Tuition</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Mandatory Fees</fullName>
+        <default>false</default>
+        <label>Mandatory Fees</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Course Fees</fullName>
+        <default>false</default>
+        <label>Course Fees</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Fines</fullName>
+        <default>false</default>
+        <label>Fines</label>
+    </standardValue>
+</StandardValueSet>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Credit Hours</fullName>
+        <default>false</default>
+        <label>Credit Hours</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Clock Hours</fullName>
+        <default>false</default>
+        <label>Clock Hours</label>
+    </standardValue>
+    <standardValue>
+        <fullName>No Credit</fullName>
+        <default>false</default>
+        <label>No Credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Continuing Education Units</fullName>
+        <default>false</default>
+        <label>Continuing Education Units</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Months</fullName>
+        <default>false</default>
+        <label>Months</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Years</fullName>
+        <default>false</default>
+        <label>Years</label>
+    </standardValue>
+</StandardValueSet>
